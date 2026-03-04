@@ -13,7 +13,7 @@ The goal of this project is to demonstrate my skills in:
 
 ✅ Basic QA Best Practices
 
-🛠️ Technologies Used
+<h2> 🛠️ Technologies Used </h2>
 
 🐍 Python
 
@@ -21,7 +21,7 @@ The goal of this project is to demonstrate my skills in:
 
 🌍 ChromeDriver
 
-✅ Features Automated
+<h3> ✅ Features Automated </h3>
 
 🌐 Open portfolio website
 
