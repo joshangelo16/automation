@@ -2,6 +2,7 @@
 <p>This projects automate my personal portfolio using Selenium Webdriver and Python.</p>
 
 The goal of this project is to demonstrate my skills in:
+
 <br>
 :rocket:Test Automation
 :rocket:Web UI Testing
