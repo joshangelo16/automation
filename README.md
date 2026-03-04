@@ -3,26 +3,38 @@
 
 The goal of this project is to demonstrate my skills in:
 
-<br>
-:rocket:Test Automation
-:rocket:Web UI Testing
-:rocket:Selenium Framework Setup
-:rocket:Python scripting
-:rocket:Basic QA best practices
-</br>
+🚀 Test Automation
 
-Technologies Used
+🌐 Web UI Testing
 
-Selenium
-Python
-ChromeDriver
+⚙️ Selenium Framework Setup
 
-Features Automated
-✅ Open portfolio website
-✅ Validate page title
-✅ Navigate to sections (About, Projects, Contact)
-✅ Click buttons and links
-✅ Fill out contact form
-✅ Verify successful submission
-✅ Handle waits (Implicit/Explicit)
-✅ Basic error handling
+🐍 Python Scripting
+
+✅ Basic QA Best Practices
+
+🛠️ Technologies Used
+
+🐍 Python
+
+🧪 Selenium WebDriver
+
+🌍 ChromeDriver
+
+✅ Features Automated
+
+🌐 Open portfolio website
+
+🏷️ Validate page title
+
+🔎 Navigate to sections (About, Projects, Contact)
+
+🖱️ Click buttons and links
+
+📝 Fill out contact form
+
+✔️ Verify successful submission
+
+⏳ Handle waits (Implicit & Explicit)
+
+⚠️ Basic error handling
