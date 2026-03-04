@@ -21,7 +21,7 @@ The goal of this project is to demonstrate my skills in:
 
 🌍 ChromeDriver
 
-<h3> ✅ Features Automated </h3>
+<h3>✅ Features Automated</h3>
 
 🌐 Open portfolio website
 
